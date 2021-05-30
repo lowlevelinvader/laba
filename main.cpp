@@ -8,4 +8,4 @@ int main()
     c = a + b;
     std::cout << "Sum: " << c ;
 }
-//прапрам
+
